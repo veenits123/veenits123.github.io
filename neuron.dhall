@@ -1,11 +1,11 @@
 { siteTitle =
-    "Shaurya Gupta"
+    "Veenit Kumar"
 , author =
-    Some "Shaurya Gupta"
+    Some "Veenit Kumar"
 , siteBaseUrl =
-    Some "https://sureyeaah.github.io"
+    Some "https://veenits123.github.io"
 , editUrl =
-    Some "https://github.com/sureyeaah/sureyeaah.github.io/edit/master/"
+    Some "https://github.com/veenits123/veenits123.github.io/edit/master/"
 , theme =
     "blue"
 , minVersion =
