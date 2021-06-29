@@ -1,6 +1,6 @@
 # Veenit Kumar
 
-![Moi](static/me.jpg){#avatar .ui .right .floated .small .image .bordered}
+![Moi](static/me.jpg)
 Welcome to my homepage! I am __Veenit Kumar__, a upcoming software engineer from India who is passionate about __C++__, __Competitive Programming__ and __Open Source__!
 
 I take notes in Zettelkasten style using [Neuron][1] which is also used to generate this website.
