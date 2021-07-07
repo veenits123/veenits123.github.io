@@ -7,7 +7,7 @@
 , editUrl =
     Some "https://github.com/veenits123/veenits123.github.io/edit/master/"
 , theme =
-    "blue"
+    "red"
 , minVersion =
     "0.6"
 }
