@@ -28,7 +28,7 @@ My name is pronounced as **Vee** _v_ + **nit**. I go by the online alias _veenit
 Under construction 🚧.
 
 ## Contact me
-Feel free to drop me an [e-mail][7] or follow me on [GitHub][3] and [Twitter][5]! I hangout on IRC (_#veenits123_) and Discord (_veenits123#4029_).
+Feel free to drop me an [e-mail][7] or follow me on [GitHub][3] and [Twitter][5]! I hangout on IRC (_#veenits123_) and Discord (_vee_nits123#1141_).
 
 You can also see my [résumé][15] and [LinkedIn][16].
 
