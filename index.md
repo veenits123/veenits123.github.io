@@ -1,26 +1,27 @@
 # Veenit Kumar
 
 ![Moi](static/me.jpg)
+
 Welcome to my homepage! I am __Veenit Kumar__, a upcoming software engineer from India who is passionate about __C++__, __Competitive Programming__ and __Open Source__!
 
 I take notes in Zettelkasten style using [Neuron][1] which is also used to generate this website.
 
 ## Bio
 
-I am a Student Developer working in the pgRouting at __Google Summer of Code__. I am doing my B.Tech. in CSE from Netaji Subhash Engineering College Kolkata.
-I have worked on language servers for [C++][11] and Boost Graph Library.
+I am a Student Developer working in the pgRouting under [OSGeo][18] at __Google Summer of Code__. I am doing my B.Tech. in CSE from Netaji Subhash Engineering College Kolkata.
+I have worked on language servers for [C++][11] and [Boost Graph Library][20].
 
-In a previous life, I did [[cp]].
+In a previous life, I did __CP__.
 
-My dev setup is Ubuntu. I'm in the process of transitioning to MacOS.
+My dev setup is Ubuntu 21.04. I'm in the process of transitioning to MacOS.
 
-Although I am not a very artsy person, I like to think I have a good taste (thanks to Hiro!) in films([Letterboxd][2]) and music([Last.fm][6], [Spotify][4]) and would love to exchange recommendations.
+Although I am not a very artsy person, I like to think I have a good taste (thanks to Levi!) in films ([Letterboxd][2]) and music ([Last.fm][6], [Spotify][4]) and would love to exchange recommendations.
 
-My name is pronounced as **Vee** _v_ + **nit**. I go by the online alias _veenits123_ which sounds similar to my name.
+My name is pronounced as **Vee** _v_ + **nit**. I go by the online alias _veenits123_.
 
 
 ## News
-- 2021 May: Started Student Developer job at GSOC.
+- 2021 May: Started working as Student Developer in [GSoC][19].
 - 2022 June: Graduating with a B.Tech in CSE from [NSEC Kolkata][9]
 
 ## Blog
@@ -49,3 +50,6 @@ You can also see my [résumé][15] and [LinkedIn][16].
 [15]: static/resume.pdf
 [16]: https://linkedin.com/in/veenits123
 [17]: https://github.com/veenits123/dotfiles
+[18]: https://www.osgeo.org/
+[19]: https://summerofcode.withgoogle.com/projects/#4897201601380352
+[20]: https://www.boost.org/doc/libs/1_76_0/libs/graph/doc/index.html
