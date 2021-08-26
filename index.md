@@ -22,6 +22,7 @@ My name is pronounced as **Vee** _v_ + **nit**. I go by the online alias _veenit
 
 ## News
 - 2021 May: Started working as Student Developer in [GSoC][19].
+- 2021 August: Secured Ninety-ninth Place in online Regional contest 2020 of [ACM-ICPC'20][21].
 - 2022 June: Graduating with a B.Tech in CSE from [NSEC Kolkata][9]
 
 ## Blog
