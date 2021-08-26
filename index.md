@@ -53,3 +53,4 @@ You can also see my [résumé][15] and [LinkedIn][16].
 [18]: https://www.osgeo.org/
 [19]: https://summerofcode.withgoogle.com/projects/#4897201601380352
 [20]: https://www.boost.org/doc/libs/1_76_0/libs/graph/doc/index.html
+[21]: static/icpc.pdf
