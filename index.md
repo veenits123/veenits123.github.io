@@ -21,9 +21,10 @@ My name is pronounced as **Vee** _v_ + **nit**. I go by the online alias _veenit
 
 
 ## News
-- 2021 May: Started working as Student Developer in [GSoC][19].
+- 2021 May: Started working as Student Developer in Google Summer of Code [(GSoC)][19].
 - 2021 August: Secured Ninety-ninth Place in online Regional contest 2020 of [ACM-ICPC'20][21].
-- 2022 June: Graduating with a B.Tech in CSE from [NSEC Kolkata][9]
+- 2021 August: Completed [Google Summer of Code (GSoC) 2021!][22].
+- 2022 June: Graduating with a B.Tech in CSE from [NSEC Kolkata][9].
 
 ## Blog
 Under construction 🚧.
@@ -46,7 +47,7 @@ You can also see my [résumé][15] and [LinkedIn][16].
 [10]: https://hackage.haskell.org/package/medea
 [11]: https://gcc.gnu.org/
 [12]: https://github.com/haskell/haskell-language-server
-[13]: https://icpc.global/ICPCID/KAMEC7NHU1IL
+[13]: https://icpc.global/
 [14]: https://codeforces.com/profile/veenits123
 [15]: static/resume.pdf
 [16]: https://linkedin.com/in/veenits123
@@ -55,3 +56,4 @@ You can also see my [résumé][15] and [LinkedIn][16].
 [19]: https://summerofcode.withgoogle.com/projects/#4897201601380352
 [20]: https://www.boost.org/doc/libs/1_76_0/libs/graph/doc/index.html
 [21]: static/icpc.pdf
+[22]: static/gsoc.pdf
